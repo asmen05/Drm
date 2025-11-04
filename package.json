@@ -1,0 +1,22 @@
+{
+  "name": "websocket-link-reader",
+  "version": "1.0.0",
+  "description": "WebSocket stream reader for IPTV and live streaming",
+  "main": "websocket-reader.js",
+  "scripts": {
+    "start": "node example.js",
+    "test": "node example.js"
+  },
+  "keywords": [
+    "websocket",
+    "iptv",
+    "streaming",
+    "live",
+    "reader"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}
